@@ -1,0 +1,21 @@
+h1{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 35px;
+   color: blue;
+
+
+}
+.Parrafo-principal{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 28px;
+color: turquoise;
+
+}
+
+.imagenes{
+width: 250px;   
+height: 250px;
+border-radius: 50%;
+
+ }
